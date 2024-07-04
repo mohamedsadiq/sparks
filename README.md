@@ -14,7 +14,7 @@ https://www.mosadiq.com/sparks/scroll
 The Quick Button is an interactive UI component designed to enhance user engagement through dynamic animations. Built using React, Framer Motion and Tailwind CSS, this button offers a visually appealing experience by incorporating smooth transitions and state changes upon user interaction.
 https://www.mosadiq.com/sparks/button
 
-![The Unsung Chorus: A Look at NPCs](../blog_img/NPCs.png)
+![The Unsung Chorus: A Look at NPCs]([../blog_img/NPCs.png](https://www.mosadiq.com/_next/image?url=%2Ffffsfs.gif&w=256&q=75))
 
 
 # Widget.
