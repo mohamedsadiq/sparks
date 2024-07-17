@@ -1,11 +1,6 @@
 # sparks
 
-Spark is an experiment in engineering snippets designed to ignite your curiosity, Feel free to explore, contribute, and use these snippets to accelerate your projects.
-
-
-https://github.com/mohamedsadiq/sparks/assets/65205272/0d3e5059-eed6-469a-916c-f5fe9a663247
-
-
+Spark It's a collection of engineering snippets meant to spark your curiosity. Dive in, explore, contribute, and use these snippets to supercharge your projects. Have fun experimenting!
 
 # Scrolling.
 It's a scroll, but with a twist. Instead of the typical scroll bar, I integrated circular indicators to signify the moving content, elevating the overall user experience.
@@ -45,16 +40,18 @@ https://github.com/mohamedsadiq/sparks/assets/65205272/7c83b3dd-1dd8-4a24-95f8-8
 
 
 # The Martian.
-This interactive demo allows you to control and observe the behavior of a character in a 3D environ
-
-https://github.com/user-attachments/assets/793e5208-673c-4177-8051-0da06e0369c7
-
-ment. Using Three.js.
-
+This interactive demo allows you to control and observe the behavior of a character in a 3D environment. Using Three.js.
 
 https://www.mosadiq.com/sparks/TheMartian
 the code: 
 https://github.com/mohamedsadiq/Personal-website/blob/main/pages/sparks/TheMartian/index.tsx
+
+
+
+https://github.com/user-attachments/assets/793e5208-673c-4177-8051-0da06e0369c7
+
+
+
 
 
 
@@ -65,7 +62,11 @@ https://www.mosadiq.com/sparks/onhover
 the code: 
 https://github.com/mohamedsadiq/Personal-website/blob/main/pages/sparks/onhover.js
 
-![July 11 Screen Recording](https://github.com/user-attachments/assets/736d4c95-233a-470e-af24-dd673067ab98)
+
+
+https://github.com/user-attachments/assets/b192eab8-b41f-451c-af90-d942bd0e7a1e
+
+
 
 
 # 3D interactive demo
@@ -76,7 +77,11 @@ https://www.mosadiq.com/sparks/gameui
 the code:
 https://github.com/mohamedsadiq/Personal-website/blob/main/pages/sparks/gameui/index.js
 
-![Screen Recording July 10](https://github.com/user-attachments/assets/a73754d2-c46a-4930-9152-2a8f7fe98f25)
+
+
+https://github.com/user-attachments/assets/465482e0-5402-4c25-b42b-05f9bce61702
+
+
 
 
 
