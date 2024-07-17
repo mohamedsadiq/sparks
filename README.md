@@ -45,13 +45,17 @@ https://github.com/mohamedsadiq/sparks/assets/65205272/7c83b3dd-1dd8-4a24-95f8-8
 
 
 # The Martian.
-This interactive demo allows you to control and observe the behavior of a character in a 3D environment. Using Three.js.
+This interactive demo allows you to control and observe the behavior of a character in a 3D environ
+
+https://github.com/user-attachments/assets/793e5208-673c-4177-8051-0da06e0369c7
+
+ment. Using Three.js.
 
 
 https://www.mosadiq.com/sparks/TheMartian
 the code: 
 https://github.com/mohamedsadiq/Personal-website/blob/main/pages/sparks/TheMartian/index.tsx
-![martin](https://github.com/user-attachments/assets/7466098d-a580-425d-81bb-5051637bb117)
+
 
 
 
